@@ -1,5 +1,16 @@
 # VSCode Python Project Settings
 
+### Essential extensions
+
+- Python (Microsoft)
+- Python Debugger (Microsoft)
+- Pylance (Microsoft)
+  
+### Recommended Extensions
+
+- Python Indent (Kevin rose)
+- Prettier - Code formatter (Prettier)
+
 This guide is useful for anyone switching from PyCharm to VSCode.
 
 ### Steps to set up:
