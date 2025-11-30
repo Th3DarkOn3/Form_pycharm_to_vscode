@@ -7,10 +7,7 @@
     ],
     "python.envFile": "${workspaceFolder}/.env",
     "python.analysis.extraPaths": [
-        "./package",
-        "./package/tb_tecsol",
-        "./package/pecos",
-        "./package/tb_rest_client"
+        "./package"
     ],
     "python.linting.flake8Enabled": true,
     "python.linting.mypyEnabled": true,
@@ -28,4 +25,5 @@
     "[python]": {
         "editor.defaultFormatter": "ms-python.black-formatter"
     }
+
 }
